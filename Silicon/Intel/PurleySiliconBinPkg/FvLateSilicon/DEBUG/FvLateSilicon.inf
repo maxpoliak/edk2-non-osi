@@ -20,7 +20,7 @@
   VERSION_STRING            = 1.0
 
 [Binaries]
-  FV|FVLATESILICON.Fv
+  FV|FvLateSilicon.Fv
 
 # #
 # #  This file contains 'Framework Code' and is licensed as such

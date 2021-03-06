@@ -20,7 +20,7 @@
   VERSION_STRING            = 1.0
 
 [Binaries]
-  FV|FVPOSTMEMORYSILICON.Fv
+  FV|FvPostMemorySilicon.Fv
 
 
 #![Pcd]

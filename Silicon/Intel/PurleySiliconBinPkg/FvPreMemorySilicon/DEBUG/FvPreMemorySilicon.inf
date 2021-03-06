@@ -20,7 +20,7 @@
   VERSION_STRING            = 1.0
 
 [Binaries]
-  FV|FVPREMEMORYSILICON.Fv
+  FV|FvPreMemorySilicon.Fv
 
 #![Pcd]
 #!  gMinPlatformPkgTokenSpaceGuid.PcdFlashFvFspMBase|0xFFEB0000
